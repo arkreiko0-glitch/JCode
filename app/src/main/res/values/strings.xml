@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Zenncode</string>
+    <string name="ide_subtitle">Mobile Code Studio</string>
+    <string name="action_explorer">Explorer</string>
+    <string name="action_search">Search</string>
+    <string name="action_git">Source Control</string>
+    <string name="action_extensions">Extensions</string>
+    <string name="action_browser">Browser</string>
+    <string name="action_ai">AI Agent</string>
+    <string name="action_settings">Themes &amp; Settings</string>
+    <string name="action_terminal">Terminal</string>
+    <string name="action_problems">Problems</string>
+    <string name="action_run">Run</string>
+    <string name="action_command_palette">Command Palette</string>
+</resources>

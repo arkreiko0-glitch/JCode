@@ -1,0 +1,6 @@
+{
+  "name": "Zenncode",
+  "description": "Lightweight mobile VS Code-inspired IDE with downloadable language extensions, themes, fast customizable terminal, real-time error indicators, built-in browser or Google Chrome runner, and multi-provider AI with key auto-rollback, shared memory, and skills.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
